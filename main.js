@@ -11,3 +11,4 @@ Array(tileCount).fill().forEach((_, i) => {
   li.classList.add(`list${i}`);
   container.appendChild(li);
 })
+

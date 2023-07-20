@@ -6,6 +6,9 @@
 
 const array = Array.from({ length: 8 }, () => Array.from({ length: 8 }, () => ""));
 
+let blackStone = 2;
+let whiteStone = 2;
+
 const gameStart = () => {
 }
 

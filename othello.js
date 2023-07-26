@@ -18,3 +18,5 @@ const putStone = (x, y) => {
 const checkStone = (x, y) => {
 }
 
+const calcTurn = () => {
+}
